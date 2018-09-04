@@ -1,0 +1,29 @@
+{
+  "name": "bduck-promise",
+  "version": "1.0.0",
+  "description": "实现一个类Promis库",
+  "main": "lib/BDuckPromise.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "typescript": "^3.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "tsc ./lib/BDuckPromise.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/zheng-chuang/bduck-promise.git"
+  },
+  "keywords": [
+    "Promise"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zheng-chuang/bduck-promise/issues"
+  },
+  "homepage": "https://github.com/zheng-chuang/bduck-promise#readme"
+}
