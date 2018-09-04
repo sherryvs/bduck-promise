@@ -80,23 +80,5 @@ function BDuckPromise(fn: (resolve:(value: any) => void, reject: (reason: any) =
   fn(resolve, reject)
 }
 
-
-
-
 export default BDuckPromise;
 module.exports = BDuckPromise
-
-
-
-// let p = new Promise((resolve, reject) => {
-//   resolve(1)
-// })
-
-
-// onfulfilled
-// onrejected
-// p.then(value => {
-
-// }, reason => {
-  
-// })
