@@ -1,6 +1,6 @@
 {
   "name": "bduck-promise",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "实现一个类Promis库",
   "main": "lib/BDuckPromise.js",
   "directories": {
@@ -20,7 +20,7 @@
   "keywords": [
     "Promise"
   ],
-  "author": "",
+  "author": "<郑闯> zhengchuang_kindle@163.com",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/zheng-chuang/bduck-promise/issues"
